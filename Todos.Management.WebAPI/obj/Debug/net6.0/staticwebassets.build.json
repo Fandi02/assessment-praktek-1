@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xDIv5cotbefgpuB1arjNqjtSg3i2oUY3wNn4GmUvGuE=",
+  "Source": "Todos.Management.WebAPI",
+  "BasePath": "_content/Todos.Management.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

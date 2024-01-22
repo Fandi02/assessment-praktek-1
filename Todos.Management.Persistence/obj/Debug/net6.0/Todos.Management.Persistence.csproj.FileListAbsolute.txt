@@ -1,0 +1,17 @@
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Persistence.deps.json
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Persistence.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Persistence.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Application.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Domain.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Application.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\bin\Debug\net6.0\Todos.Management.Domain.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.csproj.AssemblyReference.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.AssemblyInfoInputs.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.AssemblyInfo.cs
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.csproj.CopyComplete
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\refint\Todos.Management.Persistence.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\Todos.Management.Persistence.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Persistence\obj\Debug\net6.0\ref\Todos.Management.Persistence.dll

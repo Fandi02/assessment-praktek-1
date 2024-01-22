@@ -1,0 +1,15 @@
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\bin\Debug\net6.0\Todos.Management.Application.deps.json
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\bin\Debug\net6.0\Todos.Management.Application.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\bin\Debug\net6.0\Todos.Management.Application.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\bin\Debug\net6.0\Todos.Management.Domain.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\bin\Debug\net6.0\Todos.Management.Domain.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.csproj.AssemblyReference.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.AssemblyInfoInputs.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.AssemblyInfo.cs
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.csproj.CopyComplete
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\refint\Todos.Management.Application.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\Todos.Management.Application.pdb
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.Application\obj\Debug\net6.0\ref\Todos.Management.Application.dll
