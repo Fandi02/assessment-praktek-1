@@ -48,3 +48,4 @@ C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management
 C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Fandi\Documents\radyalabs\Assesment\AssessmentPraktek1\Todos.Management\Todos.Management.WebAPI\obj\Debug\net6.0\Todos.Management.WebAPI.sourcelink.json

@@ -1,12 +1,17 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
 using Todos.Management.Application.Businesses.Todos.Commands;
+using Todos.Management.Application.Businesses.Todos.Models;
 using Todos.Management.Application.Businesses.Todos.Queries;
 
 namespace Todos.Management.WebAPI.Controllers
 {
     public class TodosController : BaseController
     {
+        public TodosController() 
+        {
+        }
+
         [ProducesResponseType(type: typeof(string), statusCode: StatusCodes.Status200OK)]
         [HttpGet]
         public async Task<ActionResult> GetData()
@@ -23,7 +28,7 @@ namespace Todos.Management.WebAPI.Controllers
 
         [ProducesResponseType(type: typeof(string), statusCode: StatusCodes.Status200OK)]
         [HttpPost]
-        public async Task<ActionResult> SaveData([FromBody]CreateTodoCommand request)
+        public async Task<ActionResult> CreateData([FromBody]CreateTodoCommand request)
         {
             return Wrapper(val: await Mediator.Send(request));
         }

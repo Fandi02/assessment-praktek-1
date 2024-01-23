@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34004.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todos.Management.Application", "Todos.Management.Application\Todos.Management.Application.csproj", "{C756EAE6-62D3-4755-9B8F-78DB4F379C20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todos.Management.Application", "Todos.Management.Application\Todos.Management.Application.csproj", "{C756EAE6-62D3-4755-9B8F-78DB4F379C20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todos.Management.Domain", "Todos.Management.Domain\Todos.Management.Domain.csproj", "{40CB8946-1B42-4574-B98D-DCB98673BEA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todos.Management.Domain", "Todos.Management.Domain\Todos.Management.Domain.csproj", "{40CB8946-1B42-4574-B98D-DCB98673BEA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todos.Management.Persistence", "Todos.Management.Persistence\Todos.Management.Persistence.csproj", "{9E469E94-5FE8-41CE-ABC2-91DFFCFFF873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todos.Management.Persistence", "Todos.Management.Persistence\Todos.Management.Persistence.csproj", "{9E469E94-5FE8-41CE-ABC2-91DFFCFFF873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todos.Management.WebAPI", "Todos.Management.WebAPI\Todos.Management.WebAPI.csproj", "{E13E53C3-DB17-459F-B2C7-749BC124E69D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Todos.Management.WebAPI", "Todos.Management.WebAPI\Todos.Management.WebAPI.csproj", "{E13E53C3-DB17-459F-B2C7-749BC124E69D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todos.Management.UnitTest", "Todos.Management.UnitTest\Todos.Management.UnitTest.csproj", "{E34E753E-E573-4FBB-B82D-B18F821DB6C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E13E53C3-DB17-459F-B2C7-749BC124E69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E13E53C3-DB17-459F-B2C7-749BC124E69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E13E53C3-DB17-459F-B2C7-749BC124E69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34E753E-E573-4FBB-B82D-B18F821DB6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34E753E-E573-4FBB-B82D-B18F821DB6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34E753E-E573-4FBB-B82D-B18F821DB6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34E753E-E573-4FBB-B82D-B18F821DB6C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
